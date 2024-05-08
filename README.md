@@ -11,7 +11,6 @@ This repository contains a simple project demonstrating CRUD (Create, Read, Upda
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -72,12 +71,6 @@ This project provides a basic RESTful API server for performing CRUD operations 
 - `PUT /api/list/:id` - Update a resource by ID.
 - `DELETE /api/list/:id` - Delete a resource by ID.
 
-Replace `resource` with your specific resource name.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or features you'd like to add.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
